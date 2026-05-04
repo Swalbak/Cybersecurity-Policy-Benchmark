@@ -5,7 +5,7 @@ Cybersecurity_policy_Benchmark_dataset
 ---
 
 ## Directory Structure
-```text
+
 * cyber_secure_bench: 2,146 samples, includes the dataset used for model training
     * Label Composition: Strategy(710), Legislation(452), Guideline(984)
     * Source Composition: UNIDIR, CIP index(CIPedia), ENISA, NIST, ACSC
