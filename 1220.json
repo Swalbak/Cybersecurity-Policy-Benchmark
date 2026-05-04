@@ -1,0 +1,7 @@
+{
+    "DOC_SN": 1220,
+    "TITLE": "SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash, and ParallelHash",
+    "COLLPOIN_CD": "NIST",
+    "CLSS_CD": "GUI",
+    "SOURC_LINK": "https://csrc.nist.gov/pubs/sp/800/185/final"
+}
